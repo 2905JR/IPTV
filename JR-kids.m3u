@@ -5,8 +5,17 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/327.m3u8
 #EXTINF:-1 tvg-id="NickJrUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr USA
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJrPlutoTVUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr PlutoTV USA
+#EXTINF:-1 tvg-id="NickelodeonPlutoTVUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-pluto-tv-us.png" group-title="Kids",Nickelodeon Pluto TV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2e3e-afb3-11ef-9b37-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=92a53088-0217-4f00-ac8a-9037ffe6dda2&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="NickJrPlutoTVUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-pluto-tv-us.png" group-title="Kids",Nick Jr Pluto TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2aec-afb3-11ef-b94e-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26f72e76-2638-4158-abd6-71d0a468f520&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="NickelodeonTOTALLYTURTLESUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-totally-turtles-pluto-tv-us.png" group-title="Kids",Nickelodeon TOTALLY TURTLES Pluto TV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2fa6-afb3-11ef-8f9a-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e12bcfa4-7dca-409d-80d1-8a872abc7a5c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Nickelodeon90sKidsUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-jr-us.png" group-title="Kids",Nickelodeon 90s Kids Pluto TV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2ef2-afb3-11ef-8921-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=19641339-523e-428d-bf63-e36ac195993f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="DisneyChannelUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-channel-us.png" group-title="Kids",Disney Channel USA
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
