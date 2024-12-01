@@ -53,7 +53,7 @@ http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-xd-us.png" group-title="Kids",Disney XD USA
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-jr-us.png" group-title="Kids",Disney Jr. USA
+#EXTINF:-1 tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-jr-us.png" group-title="Kids",Disney Jr. CA
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/cartoon-network-us.png" group-title="Kids",Cartoon Network USA
