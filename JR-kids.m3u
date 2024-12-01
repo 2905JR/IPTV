@@ -58,3 +58,6 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/199.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/boomerang-us.png" group-title="Kids",Boomerang USA
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="pokemon.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/pokemon-us.png" group-title="Kids",Pokemon Pluto TV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e3000-afb3-11ef-a504-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c89456b2-792b-4d67-9ef3-65bfb85999b8&userId=&serverSideAds=true
