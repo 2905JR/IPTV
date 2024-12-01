@@ -14,8 +14,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="NickelodeonTOTALLYTURTLESUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-totally-turtles-pluto-tv-us.png" group-title="Kids",Nickelodeon TOTALLY TURTLES Pluto TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2fa6-afb3-11ef-8f9a-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e12bcfa4-7dca-409d-80d1-8a872abc7a5c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Nickelodeon90sKidsUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-jr-us.png" group-title="Kids",Nickelodeon 90s Kids Pluto TV USA
+#EXTINF:-1 tvg-id="Nickelodeon90sKidsUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-90s-kids-pluto-tv-us.png" group-title="Kids",Nickelodeon 90s Kids Pluto TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2ef2-afb3-11ef-8921-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=19641339-523e-428d-bf63-e36ac195993f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="NickelodeonTotallyTeen.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-totally-teen-pluto-tv-us.png" group-title="Kids",Nickelodeon Totally Teen TV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2f4c-afb3-11ef-b4c4-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c381c708-68a5-4258-9eaa-e2fd3373191f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="DisneyChannelUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-channel-us.png" group-title="Kids",Disney Channel USA
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
