@@ -1,5 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DisneyXDUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-xd-us.png" group-title="Kids",Disney XD USA
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-us.png" group-title="Kids",Nickelodeon USA
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/327.m3u8
+
+#EXTINF:-1 tvg-id="NickJrUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr USA
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTVUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr PlutoTV USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannelUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-channel-us.png" group-title="Kids",Disney Channel USA
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXDUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-xd-us.png" group-title="Kids",Disney XD USA
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-jr-us.png" group-title="Kids",Disney Jr USA
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
