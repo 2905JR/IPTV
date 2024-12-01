@@ -44,6 +44,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="totally-teen.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-totally-teen-pluto-tv-us.png" group-title="Kids",Nickelodeon Totally Teen TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2f4c-afb3-11ef-b4c4-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c381c708-68a5-4258-9eaa-e2fd3373191f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="no-parents-allowed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/no-parents-allowed-pluto-tv-us.png" group-title="Kids",No Parents Allowed USA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e3514-afb3-11ef-81d2-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe62cd21-da87-4ec8-a49e-c0e70e657b22&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-channel-us.png" group-title="Kids",Disney Channel USA
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
