@@ -6,7 +6,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/327.m3u8
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTVUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr PlutoTV USA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2aec-afb3-11ef-b94e-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26f72e76-2638-4158-abd6-71d0a468f520&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="DisneyChannelUSA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-channel-us.png" group-title="Kids",Disney Channel USA
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
