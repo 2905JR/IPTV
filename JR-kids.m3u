@@ -26,13 +26,13 @@ https://i.mjh.nz/.r/10-rugrats.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%201
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-us.png" group-title="Kids",Nickelodeon USA
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/327.m3u8
 
-#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr USA
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-us.png" group-title="Kids",Nick Jr. USA
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="nick-pluto-tv.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-pluto-tv-us.png" group-title="Kids",Nickelodeon Pluto TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2e3e-afb3-11ef-9b37-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=92a53088-0217-4f00-ac8a-9037ffe6dda2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-jr-pluto-tv-ptv1.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-pluto-tv-us.png" group-title="Kids",Nick Jr Pluto TV USA
+#EXTINF:-1 tvg-id="nick-jr-pluto-tv-ptv1.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nick-jr-pluto-tv-us.png" group-title="Kids",Nick Jr. Pluto TV USA
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fb8e2aec-afb3-11ef-b94e-5510bd30f556&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26f72e76-2638-4158-abd6-71d0a468f520&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="totally-turtles.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nickelodeon-totally-turtles-pluto-tv-us.png" group-title="Kids",Nickelodeon TOTALLY TURTLES Pluto TV USA
@@ -50,5 +50,11 @@ http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-xd-us.png" group-title="Kids",Disney XD USA
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-jr-us.png" group-title="Kids",Disney Jr USA
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/disney-jr-us.png" group-title="Kids",Disney Jr. USA
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/cartoon-network-us.png" group-title="Kids",Cartoon Network USA
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/199.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/boomerang-us.png" group-title="Kids",Boomerang USA
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
