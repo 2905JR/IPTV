@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyXDUSA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20180903211953" group-title="Kids",Disney XD USA
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelUSA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/DISNEYCHANNEL-2024.svg/revision/latest?cb=20240925092807" group-title="Kids",Disney Channel USA
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
