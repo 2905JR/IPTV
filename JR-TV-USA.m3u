@@ -12,7 +12,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/985.m3u8
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/cbs-us.png" group-title="Network",CBS NYC USA
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/719.m3u8
 
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/fox-la-us.png" group-title="Network",FOX LA USA
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/fox-ca-us.png" group-title="Network",FOX LA USA
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/721.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/fox-ny-us.png" group-title="Network",FOX NYC USA
@@ -21,7 +21,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/728.m3u8
 #EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nbc-us.png" group-title="Network",NBC LA USA
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/986.m3u8
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nbc-us.png" group-title="Network",nbc NYC USA
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nbc-us.png" group-title="Network",NBC NYC USA
 http://185.150.191.249/NYNewYorkNBCWNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/comedy-central-us.png" group-title="Comedy",Comedy Central USA
