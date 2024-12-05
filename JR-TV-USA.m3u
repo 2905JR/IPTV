@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/abc-ca-us.png" group-title="Network",ABC LA USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/abc-ny-us.png" group-title="Network",ABC NYC USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/cbs-ca-us.png" group-title="Network",CBS LA USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/cbs-ny-us.png" group-title="Network",CBS NYC USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/fox-la-us.png" group-title="Network",FOX LA USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/fox-ny-us.png" group-title="Network",FOX NYC USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nbc-la-us.png" group-title="Network",NBC LA USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/nbc-ny-us.png" group-title="Network",nbc NYC USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/comedy-central-us.png" group-title="Comedy",Comedy Central USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/hbo-us.png" group-title="Entertainment",HBO USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/mtv-us.png" group-title="Entertainment",MTV USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/tbs-us.png" group-title="Entertainment",TBS USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/tnt-us.png" group-title="Entertainment",TNT USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/usa-us.png" group-title="Entertainment",USA Network USA
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/2905JR/IPTV/main/espn-us.png" group-title="Sports",ESPN USA
 http://fl2.moveonjoy.com/NFL_15/index.m3u8
 
